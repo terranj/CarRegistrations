@@ -1,7 +1,7 @@
 # CarRegistrations
-Mock SQL DB for US car registrations and their owners
+Mock SQL DB for US car registrations and their owners</br>
 
-Steps:
+Steps:</br>
 1. Download all files.
 2. In SSMS, run the CarRegistrationsTableCreation.sql file to create the database, tables, and constraints
 3. In VS, copy the csscriptcarreg
